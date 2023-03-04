@@ -8,3 +8,8 @@
 - 🎮 Gaming: Unity 3D, AR, VR
 - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Rust, Haskell
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Ruby
+
+### Hightlights
+
+- aa
+- aa
