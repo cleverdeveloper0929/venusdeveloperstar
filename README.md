@@ -1,4 +1,4 @@
-###  Senior Full Stack Engineer
+###  Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
 - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Loopback, Nestjs, Ruby on Rails
