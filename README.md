@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 🎮 Gaming: Unity 3D, AR, VR
 - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Rust, Haskell
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Ruby
-- 📫 Interesting : AI, BigData, Machine Learning, IoT
