@@ -21,7 +21,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo/web3js.jpg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=nextjs,bootstrap,bots,dotnet,electron,express,flask,ai,jquery,materialui,tailwind,nodejs,postman,qt,r,spring"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=nextjs,bootstrap,bots,dotnet,electron"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=express,flask,ai,jquery,materialui,tailwind,nodejs,postman,qt,r,spring"></code>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
