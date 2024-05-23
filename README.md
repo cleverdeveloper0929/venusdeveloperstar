@@ -5,18 +5,8 @@
   <img src="akudama-drive-anime_4.1.gif" />
 </p>
 
-Main Skills:
-- React/Next.js, Vue/Nuxt.js, Svelte, Angular
-- Node/Nest JS, Django, Ruby on Rails, Goland
-- Web3JS, Solidity, Rust, Truffle, Hardhat, Anchor, Coswasm, Openzeppelin, IPFS
-- MySǪL, MongoDB, DynamoDB. PostgreSǪL
-- Matrial UI, Metronic, MDB React, Bootstrap, AntD
-- Tailwind CSS, Vuetify, SCSS
-- AWS, GCP, Firebase, CI/CD, ǪA Testing, GraphǪL, Docker, Jira, Vercel
-
-## My Skill Set  
+## My Skills
 <table><tr><td valign="top" width="33%">
-
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
