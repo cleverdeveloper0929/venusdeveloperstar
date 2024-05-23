@@ -14,8 +14,6 @@ Main Skills:
 - Tailwind CSS, Vuetify, SCSS
 - AWS, GCP, Firebase, CI/CD, ǪA Testing, GraphǪL, Docker, Jira, Vercel
 
-<a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
