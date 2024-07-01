@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/codeninja0718"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Engineer!;Web%20Developer;7%2B%20years%20of%20rich%20experience&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
-</p>
-<p align="center">
-  <img src="akudama-drive-anime_4.1.gif" />
-</p>
-
 ## My Skills
 <table><tr><td valign="top" width="33%">
 
